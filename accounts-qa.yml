@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Eazybank Accounts related to Quality Assurance APIs"
+  message: "Welcome to Eazybank Accounts related to QA APIs"
   contactDetails:
     name: "Ashwini -QA Lead"
     email: "ashwini@example.com"
